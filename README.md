@@ -1,6 +1,6 @@
-# Digitalisation de la société NeoTravel 
+# Site : https://g120101.learnai.fr/ 
 
-# Chatbot pour Devis de Voyages
+# Digitalisation de la société NeoTravel 
 
 Ce projet implémente un chatbot interactif pour générer des devis personnalisés pour les voyages. Il est intégré à un site web HTML et utilise JavaScript pour le contrôle des interactions utilisateur et la logique d'application.
 
